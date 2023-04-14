@@ -1,0 +1,86 @@
+* {
+    font-family: 'montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.Login-button {
+    Width: 130px;
+    Height: 41px;
+    background-color: #665AE1;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+
+.login {
+    font-Weight: 600px;
+    font-size: 24px;
+    Line-height: 29.26px;
+    color: floralwhite;
+}
+
+.Logo-image {
+    height: 500px;
+    width: 568px;
+    left: 125px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 71px;
+    color: #515151;
+}
+
+p {
+    width: 515px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #848484;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.Explore {
+    Width: 239px;
+    Height: 64px;
+    background-color: #ADFF00;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
